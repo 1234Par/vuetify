@@ -9,7 +9,7 @@
           <v-text-field
             v-model="firstname"
             :rules="nameRules"
-            :counter="10"
+            :counter="8"
             label="First name"
             required
           ></v-text-field>
